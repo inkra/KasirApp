@@ -1,0 +1,296 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Salads"
+    },
+    {
+      "id": 2,
+      "nama": "MeatEntrees"
+    },
+    {
+      "id": 3,
+      "nama": "SeafoodEntrees"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Caesar Salad",
+      "harga": 35000,
+      "deskripsi": "Romaine lettuce, Parmesan cheese, croutons, topped with a grilled and caesar dressing.",
+      "is_ready": true,
+      "gambar": "CaesarSalad.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Salads"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "GF Nicoise Salad",
+      "harga": 56000,
+      "deskripsi": "Spring mix, boiled potatoes, tomato, egg, seared medium rare tuna.",
+      "is_ready": true,
+      "gambar": "GFNicoiseSalad.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Salads"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "GF Greek Salad",
+      "harga": 35000,
+      "deskripsi": "Romaine lettuce, red onion, tomato, cucumber, Kalamata olives, and feta cheese.",
+      "is_ready": true,
+      "gambar": "GFGreekSalad.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Salads"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Fruit & Walnut",
+      "harga": 35000,
+      "deskripsi": "Spring mix, fruit, glazed nuts, blue cheese, Balsamic honey vinaigrette.",
+      "is_ready": true,
+      "gambar": "FruitWalnutSalad.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Salads"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Caprese Salad",
+      "harga": 17500,
+      "deskripsi": "Romaine lettuce, red onion, tomato, cucumber, Kalamata olives, and Feta cheese.",
+      "is_ready": true,
+      "gambar": "CapreseSalad.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Salads"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Meatloaf Wellington",
+      "harga": 56000,
+      "deskripsi": "Topped with wild mushroom cream cheese, wrapped in a flaky puff pastry.",
+      "is_ready": true,
+      "gambar": "MeatloafWellington.jpg",
+      "category": {
+        "id": 2,
+        "nama": "MeatEntrees"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Russian Schnitzel",
+      "harga": 56000,
+      "deskripsi": "Thinly pounded pork loin lightly battered, served with creamy wild mushroom sauce.",
+      "is_ready": true,
+      "gambar": "RussianSchnitzel.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "MeatEntrees"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "GF Beef Stroganoff",
+      "harga": 59500,
+      "deskripsi": "Tenderloin smothered in a cream sauce, served with mashed potatoes.",
+      "is_ready": true,
+      "gambar": "GFBeefStroganoff.jpg",
+      "category": {
+        "id": 2,
+        "nama": "MeatEntrees"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "GF Beef Brisket",
+      "harga": 66500,
+      "deskripsi": "Slow cooked cubed Brisket served over mashed potatoes.",
+      "is_ready": true,
+      "gambar": "GFBeefBrisket.jfif",
+      "category": {
+        "id": 2,
+        "nama": "MeatEntrees"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "K-010",
+      "nama": "Lamb Rack",
+      "harga": 91000,
+      "deskripsi": "Herb crusted, served with sun-dried tomato brown and wild rice and roasted vegetable.",
+      "is_ready": true,
+      "gambar": "LambRack.jpg",
+      "category": {
+        "id": 2,
+        "nama": "MeatEntrees"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "K-011",
+      "nama": "Kobe Burger",
+      "harga": 49000,
+      "deskripsi": "Lettuce, tomato, onion, french fries. Comes in a large patty compared to regular burgers.",
+      "is_ready": true,
+      "gambar": "KobeBurger.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "MeatEntrees"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-012",
+      "nama": "GF Ahi Tuna",
+      "harga": 91000,
+      "deskripsi": "Seared med. rare tuna in a sesame and poppy seed crust with scallions-ginger sauce.",
+      "is_ready": true,
+      "gambar": "GFAhiTuna.jfif",
+      "category": {
+        "id": 3,
+        "nama": "SeafoodEntrees"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "K-013",
+      "nama": "Salmon",
+      "harga": 66500,
+      "deskripsi": "8oz Fillet topped with Mayo, Avocado, Tomato, Mozzarella and Provolone cheese.",
+      "is_ready": true,
+      "gambar": "salmon.jpg",
+      "category": {
+        "id": 3,
+        "nama": "SeafoodEntrees"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-014",
+      "nama": "Shrimp Pasta",
+      "harga": 49000,
+      "deskripsi": "Sautéed shrimp in a pesto basil sauce served over fettuccine.",
+      "is_ready": true,
+      "gambar": "ShrimpPasta.jpg",
+      "category": {
+        "id": 3,
+        "nama": "SeafoodEntrees"
+      }
+    },
+    {
+      "id": 15,
+      "kode": "K-015",
+      "nama": "Grouper",
+      "harga": 49000,
+      "deskripsi": "Crusted in pretzels and almond flake. Served with quinoa and pomegranate sauce.",
+      "is_ready": true,
+      "gambar": "grouper.jpg",
+      "category": {
+        "id": 3,
+        "nama": "SeafoodEntrees"
+      }
+    }
+  ],
+  "keranjangs": [
+    {
+      "jumlah": 2,
+      "total_harga": 112000,
+      "product": {
+        "id": 7,
+        "kode": "K-07",
+        "nama": "Russian Schnitzel",
+        "harga": 56000,
+        "deskripsi": "Thinly pounded pork loin lightly battered, served with creamy wild mushroom sauce.",
+        "is_ready": true,
+        "gambar": "RussianSchnitzel.jpeg",
+        "category": {
+          "id": 2,
+          "nama": "MeatEntrees"
+        }
+      },
+      "keterangan": "Spicy",
+      "id": 1
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 35000,
+      "product": {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "GF Greek Salad",
+        "harga": 35000,
+        "deskripsi": "Romaine lettuce, red onion, tomato, cucumber, Kalamata olives, and feta cheese.",
+        "is_ready": true,
+        "gambar": "GFGreekSalad.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Salads"
+        }
+      },
+      "id": 3
+    }
+  ],
+  "pesanans": [
+    {
+      "total_bayar": 112000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 56000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "GF Nicoise Salad",
+            "harga": 56000,
+            "deskripsi": "Spring mix, boiled potatoes, tomato, egg, seared medium rare tuna.",
+            "is_ready": true,
+            "gambar": "GFNicoiseSalad.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Salads"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 56000,
+          "product": {
+            "id": 6,
+            "kode": "K-06",
+            "nama": "Meatloaf Wellington",
+            "harga": 56000,
+            "deskripsi": "Topped with wild mushroom cream cheese, wrapped in a flaky puff pastry.",
+            "is_ready": true,
+            "gambar": "MeatloafWellington.jpg",
+            "category": {
+              "id": 2,
+              "nama": "MeatEntrees"
+            }
+          },
+          "id": 2
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
