@@ -1,0 +1,78 @@
+#my-primary{
+  color: white ;
+  background-color: #3A3B43;
+  border: 0px;
+}
+
+body {
+  margin: 0;
+  font-family: 'Public Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  overflow-y: hidden;
+}
+
+.navbar {
+  background-color: #ffca40;
+  font-family: Public Sans;
+  width: 100%;
+  padding: 10px 0px;
+
+}
+
+.category-aktif {
+  background-color: #ffca40;
+  color: white;
+}
+
+.navbar .me-auto {
+  margin: 0px 38px;
+}
+
+.bill {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 25%;
+  height: 100%;
+  float: left;
+  padding: 20px;
+  background-color: #3A3B43;
+  color: white;
+}
+
+.bill .list-group {
+  padding-top: 20px;
+  background-color: #3A3B43;
+  width: 330px;
+  font-size: 13px;
+}
+
+.bill p {
+  font-size: 13px;
+}
+
+.mt-3 {
+  width: 75%;
+}
+
+.card-body {
+  height: 370px;
+  margin: -8px;
+  font-size: 16px;
+}
+
+.card-body img {
+  height: 205px;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
